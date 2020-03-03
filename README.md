@@ -1,4 +1,4 @@
-# custom_camera
+# flutter_custom_camera
 
 Flutter自定义相机.
 
