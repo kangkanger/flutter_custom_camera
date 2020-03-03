@@ -5,7 +5,7 @@ Flutter自定义相机.
 ------
 先上图，没图说个J8
 ------
-![Image text](https://github.com/kangkanger/flutter_custom_camera/master/screenshots/1.gif)
+![Image text](https://github.com/kangkanger/flutter_custom_camera/tree/master/screenshots/1.gif)
 ------
 如果上图挂了没加载出来，请查看本人博客
 ------
