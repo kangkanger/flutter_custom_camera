@@ -1,16 +1,17 @@
 # custom_camera
 
-A new Flutter application.
+Flutter自定义相机.
 
-## Getting Started
+------
+先上图，没图说个J8
+------
+![Image text](https://github.com/kangkanger/flutter_custom_camera/master/screenshots/1.gif)
+------
+如果上图挂了没加载出来，请查看本人博客
+------
+[Flutter实现自定义相机](https://blog.csdn.net/codekxx/article/details/104631910 "Flutter自定义相机")
+------
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+------
+如果帮助到您了，请您点一下上面的小星星，Thank！！！
